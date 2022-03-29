@@ -1,3 +1,5 @@
+![image text](https://github.com/root3r0x/dotfiles/blob/master/logo_github.png "root3r0x")
+
 <h1 align="center">Hi 👋, I'm Miguel LD.</h1>
 <h3 align="center">A passionate IT technologies and backend developer from México.</h3>
 
