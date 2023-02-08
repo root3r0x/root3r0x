@@ -1,4 +1,4 @@
-#<img src="log_github.png" alt="Header image" style="display: block; margin: 0 auto;" />
+#<img src="logo_github.png" alt="Header image" style="display: block; margin: 0 auto;" />
 
 <h1 align="center">Hi 👋, I'm Miguel LD.</h1>
 <h3 align="center">A passionate IT technologies and backend developer from México.</h3>
